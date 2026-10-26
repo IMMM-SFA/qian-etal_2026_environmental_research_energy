@@ -2,7 +2,7 @@
 
 **Statistical and Machine Learning Analysis of Compound Weather Events and Resource Adequacy Stress in Interconnected Power Grids**
 
-Jingwei Qian¹, Jordan Kern²*, Casey Burleyson³, Cameron Bracken³, Kerem Ziya Akdemir³, and Henry Ssembatya¹.
+Jingwei Qian¹*, Jordan Kern², Casey Burleyson³, Cameron Bracken³, Kerem Ziya Akdemir³, and Henry Ssembatya¹.
 
 ¹ North Carolina State University, Department of Civil, Construction and Environmental Engineering, Raleigh, NC 27606.
 
@@ -10,7 +10,7 @@ Jingwei Qian¹, Jordan Kern²*, Casey Burleyson³, Cameron Bracken³, Kerem Ziya
 
 ³ Pacific Northwest National Laboratory, Richland WA 99354.
 
-*Corresponding author: jkern@ncsu.edu
+*Corresponding author: jqian4@ncsu.edu
 
 ## Abstract
 
