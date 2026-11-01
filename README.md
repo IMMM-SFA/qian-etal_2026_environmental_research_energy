@@ -1,4 +1,4 @@
-# qian-etal_2026_applied_energy
+# qian-etal_2026_environmental_research_energy
 
 **Statistical and Machine Learning Analysis of Compound Weather Events and Resource Adequacy Stress in Interconnected Power Grids**
 
@@ -18,7 +18,7 @@ While most resource adequacy planning for bulk power systems occurs at the contr
 
 ## Journal reference
 
-Qian, J., Kern, J., Burleyson, C., Bracken, C., Akdemir, K. Z., & Ssembatya, H. (2026). Statistical and machine learning analysis of compound weather events and resource adequacy stress in interconnected power grids. Manuscript submitted to Applied Energy.
+Qian, J., Kern, J., Burleyson, C., Bracken, C., Akdemir, K. Z., & Ssembatya, H. (2026). Statistical and machine learning analysis of compound weather events and resource adequacy stress in interconnected power grids. Manuscript submitted to Environmental Research: Energy.
 
 ## Data and code reference
 
