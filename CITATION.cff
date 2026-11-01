@@ -1,7 +1,7 @@
 cff-version: 1.2.0
 message: "If you use this repository, please cite it as below."
 type: software
-title: "Meta-repository for Statistical and Machine Learning Analysis of Compound Weather Events and Rare Resource Adequacy Stress in the U.S. Eastern Interconnection"
+title: "Meta-repository for Statistical and Machine Learning Analysis of Compound Weather Events and Rare Resource Adequacy Stress in Interconnected Power Grids"
 authors:
   - family-names: "Qian"
     given-names: "Jingwei"
