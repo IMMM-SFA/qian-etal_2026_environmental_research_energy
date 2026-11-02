@@ -22,7 +22,7 @@ Qian, J., Kern, J., Burleyson, C., Bracken, C., Akdemir, K. Z., & Ssembatya, H. 
 
 ## Data and code reference
 
-Qian, Jingwei, Jordan Kern, Casey Burleyson, Cameron Bracken, Kerem Ziya Akdemir, and Henry Ssembatya. “Statistical and Machine Learning Analysis of Compound Weather Events and Rare Resource Adequacy Stress in the U.S. Eastern Interconnection”. MSD-LIVE Data Repository, October 8, 2026. DOI: 10.57931/17290006
+Qian, Jingwei, Jordan Kern, Casey Burleyson, Cameron Bracken, Kerem Ziya Akdemir, and Henry Ssembatya. “Statistical and Machine Learning Analysis of Compound Weather Events and Resource Adequacy Stress in Interconnected Power Grids”. MSD-LIVE Data Repository, October 8, 2026. https://doi.org/10.57931/17426950.
 
 The MSD-LIVE Data Repository includes network/generator/fuel/outage inputs for the Direct Current Optimal Power Flow (DCOPF) model. This archive also shared analysis inputs, statistical/ML outputs, and the historical experiment objective values.
 
